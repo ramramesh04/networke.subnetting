@@ -1,8 +1,8 @@
-                            Hi 👋, I'm Ram............................
-                            
-                            ########### SUBNETTING ###########
-                            
-                            A project about solving networking problems exercises. Configuring small-scale networks, subnets and understanding TCP/IP addressing. ipv4 ip internet-protocol 
+          Hi 👋, I'm Ram............................
+                        
+                    ########### SUBNETTING ###########
+                 
+        A project about solving networking problems exercises. Configuring small-scale networks, subnets and understanding TCP/IP addressing. ipv4 ip internet-protocol 
                             
                             
 
